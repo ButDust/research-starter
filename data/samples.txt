@@ -1,0 +1,8 @@
+Machine learning is useful.
+Python is useful for research.
+Research needs practice.
+Practice makes coding better.
+Machine learning needs data.
+Data helps us test ideas.
+Good experiments need clear records.
+Python helps us process data.

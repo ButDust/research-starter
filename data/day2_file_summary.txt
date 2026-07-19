@@ -1,0 +1,13 @@
+Line count:8
+Word count:35
+Unique word count:23
+data: 3
+machine: 2
+learning: 2
+is: 2
+useful: 2
+python: 2
+research: 2
+needs: 2
+practice: 2
+helps: 2
